@@ -1,1 +1,23 @@
-/* Your external CSS styles go here */
+body{
+	background: #B0E0E6 ;
+	font-size: 14px;
+	font-family: arial;
+	line-height: 22px;
+	color: #555555;
+	margin: 20px;
+	padding: 15px;
+}
+.bold{
+	font-weight:700;
+	font-size:20px;
+	text-transform: uppercase;
+}
+.resume{
+	width: 100px;
+	height: auto;
+	margin: 50px auto;
+	text-align: center;
+}
+#chapter1{ text-align: center }
+h2{ color: purple } 
+
