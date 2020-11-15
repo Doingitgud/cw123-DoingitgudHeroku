@@ -1,1 +1,20 @@
-/* Your responsive CSS styles go here */
+@media (max-width: 500px)
+{
+   p{
+    font-size: 24px;
+   }
+}
+@media (min-width: 1000px)
+{
+    h1{
+        font-size: 30px;
+       }
+}
+@media (max-width: 860px) and (min-width: 760px) {
+    .class-one {
+      background-color:orange;
+    }
+    .class-two {
+      background-color: green;
+    }
+  }
